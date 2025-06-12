@@ -98,24 +98,6 @@ This project is open-source and free to use. Attribution is appreciated.
 
 Designed with ❤️ by Sangeetha J | Final Year CSE Student | Data Science Enthusiast
 
-yaml
-Copy code
-
----
-
-## ✅ What to Do Next
-
-1. Create a GitHub repository (e.g., `react-weather-app`)
-2. Upload your project files (`index.html`, `style.css`, `script.js`)
-3. Paste this content into `README.md`
-4. Commit everything
-5. Enable GitHub Pages (under **Settings > Pages**)
-6. Share your link!
-
----
-
-Would you like me to bundle all your files and this `README.md` into a ready-to-upload `.zip`?
-
 
 
 
