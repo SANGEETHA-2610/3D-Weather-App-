@@ -1,9 +1,7 @@
 📌 GitHub Project Description (Short)
-A modern weather application built using HTML, CSS, JavaScript, and React (via CDN) — no Node.js. Features 3D animated cards, interactive slideshow, and real-time weather recommendations based on OpenWeatherMap API.
+A modern weather application built using HTML, CSS, JavaScript, and React (via CDN). Features 3D animated cards, interactive slideshow, and real-time weather recommendations based on OpenWeatherMap API.
 
-📄 README.md File (Full Markdown)
-markdown
-Copy code
+
 # 🌤️ React Weather App (No Node.js)
 
 A modern, interactive weather app built using **React (via CDN)**, **HTML**, **CSS**, and **JavaScript** — with **no Node.js** or build tools. This project displays real-time weather data, uses a horizontal slideshow to present weather info, and gives smart suggestions based on current conditions.
