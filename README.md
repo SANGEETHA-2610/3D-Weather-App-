@@ -96,7 +96,7 @@ Sangeetha J
 ✅ License
 This project is open-source and free to use. Attribution is appreciated.
 
-Designed with ❤️ by Sangeetha J | Final Year CSE Student | Data Science Enthusiast
+Designed with ❤️ by Sangeetha J | Final Year CSE Student | Data Science Enthusiast | Frontend Developer | Data Analyst
 
 
 
